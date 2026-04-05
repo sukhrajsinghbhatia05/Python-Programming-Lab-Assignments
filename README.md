@@ -20,10 +20,14 @@ This repository contains all practical lab assignments completed during the Pyth
 - **Assignment 2:** Steel Quality Grading System - Grade steel based on hardness, carbon content, and tensile strength
 
 ### **Practical 3: Loops & Patterns**
-- **Task 3:** Print consecutive numbers without string methods
-- **Task 4:** Descending star pattern (5 to 1)
-- **Task 5:** Pyramid star pattern
-- **Task 7:** Prime Number Finder between two numbers
+- **Assignment 1:** Number Patterns
+- **Assignment 2:** Character and Symbol Patterns
+- **Assignment 3:** Print Consecutive Numbers
+- **Assignment 4:** Descending Star Pattern
+- **Assignment 5:** Pyramid Star Pattern
+- **Assignment 6:** Reverse Pyramid Pattern
+- **Assignment 7:** Prime Number Finder
+
 
 ### **Practical 4: NumPy Operations**
 - **Assignment 1:** Create 4×4 identity matrix and perform matrix operations
